@@ -109,3 +109,4 @@ Alter table PortfolioProject..nashvile_realestate
 Drop column owneraddress, taxdistrict, propertyaddress, saledate
 
 
+
